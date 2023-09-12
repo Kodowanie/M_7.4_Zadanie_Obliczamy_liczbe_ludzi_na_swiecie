@@ -46,11 +46,16 @@ public class Main {
 
 
         System.out.println("Stream getListOfContinentTotalA: " );
-        world.getListOfContinentTotalA();
+        BigDecimal result = world.getListOfContinentTotalA();
+        System.out.println(result);
 
 
         System.out.println("Stream getListOfContinentTotalB: " );
 //        world.getListOfContinentTotalB();
+
+
+
+
 
 
     }

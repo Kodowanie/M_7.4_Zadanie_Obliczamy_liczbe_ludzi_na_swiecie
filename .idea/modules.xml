@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.iml" filepath="$PROJECT_DIR$/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.main.iml" filepath="$PROJECT_DIR$/.idea/modules/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.test.iml" filepath="$PROJECT_DIR$/.idea/modules/M_7.4_Zadanie_Obliczamy_liczbe_ludzi_na_swiecie.test.iml" />
+    </modules>
+  </component>
+</project>
